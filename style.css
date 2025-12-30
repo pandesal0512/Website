@@ -15,6 +15,7 @@ body {
     width: 500px; /* match image natural width */
     margin: 20px auto; /* center container and add top spacing */
     gap: 8px; /* spacing between heading and image */
+   
 }
 
 #audioButton {
